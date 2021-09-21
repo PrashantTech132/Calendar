@@ -47,7 +47,6 @@ body {
     display: grid;
     place-items: center;
     font-family: var(--font-family);
-    backgrond-image: url(https://free4kwallpapers.com/uploads/originals/2020/05/11/gradient-wallpaper.jpg);
 }
 
 .calendar {
